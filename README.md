@@ -14,7 +14,7 @@ This tutorial features two hands-on sessions: 1) A session on computing counterf
 
 #### Analyzing a Simple Two-Group User Study
 
-[Jupyter notebook](1-user_study_evaluation_AAAI.ipynb) <a target="_blank" href="https://colab.research.google.com/github/andreartelt/ICPR26_CF_Tutorial/blob/main/1-user_study_evaluation_AAAI.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+[Jupyter notebook](1-user_study_evaluation_ICPR.ipynb) <a target="_blank" href="https://colab.research.google.com/github/andreartelt/ICPR26_CF_Tutorial/blob/main/1-user_study_evaluation_ICPR.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### How to cite
 
